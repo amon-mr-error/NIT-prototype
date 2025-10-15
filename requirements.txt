@@ -1,0 +1,10 @@
+transformers
+torch
+sentencepiece
+PyPDF2
+python-docx
+docx2txt
+pandas
+matplotlib
+reportlab
+tqdm
